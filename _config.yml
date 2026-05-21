@@ -1,0 +1,23 @@
+title: "Renata Félix Trajano de Araújo"
+description: "Cientista de Dados | Analista de Dados | Business Intelligence | Python | SQL | Power BI"
+baseurl: ""
+url: "https://DS-RFTA.github.io"
+
+author:
+  name: "Renata Félix Trajano de Araújo"
+  email: rfta@cesar.school
+  linkedin: https://linkedin.com/in/renataft-araujo
+  github: https://github.com/DS-RFTA
+  portfolio: https://sites.google.com/view/rfta-data
+  location: "Recife, PE – Brasil"
+
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+permalink: pretty
+
+# SEO / ATS keywords
+keywords: "Data Science, Cientista de Dados, Analista de Dados, Business Intelligence, Python, SQL, Power BI, Machine Learning, Supply Chain Analytics, ETL, Streamlit, Plotly, Pandas, Scikit-learn"
