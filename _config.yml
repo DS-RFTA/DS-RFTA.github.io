@@ -1,5 +1,5 @@
 title: "Renata Félix Trajano de Araújo"
-description: "Cientista de Dados | Analista de Dados | Business Intelligence | Python | SQL | Power BI"
+description: "Data Scientist | Data Science | Cientista de Dados | Data Analytics | Analista de Dados| Business Intelligence | Expert DIO  | IA | Azure • AWS • Cloud  Python • SQL • EXCEL • Power BI • Looker • Tableu • LLM"
 baseurl: ""
 url: "https://DS-RFTA.github.io"
 
@@ -20,4 +20,5 @@ markdown: kramdown
 permalink: pretty
 
 # SEO / ATS keywords
-keywords: "Data Science, Cientista de Dados, Analista de Dados, Business Intelligence, Python, SQL, Power BI, Machine Learning, Supply Chain Analytics, ETL, Streamlit, Plotly, Pandas, Scikit-learn"
+keywords: "Data Science, Cientista de Dados, Analista de Dados, Business Intelligence, Python, SQL, Power BI, Machine Learning, Supply Chain Analytics, ETL, Streamlit, Plotly, Pandas, Scikit-learn
+Data Scientist | Data Science | Cientista de Dados | Data Analytics | Analista de Dados| Business Intelligence | Expert DIO  | IA | Azure • AWS • Cloud  Python • SQL • EXCEL • Power BI • Looker • Tableu • LLM "
