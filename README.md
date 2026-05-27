@@ -1,6 +1,6 @@
-# Portfólio Estratégico – Renata Félix Trajano de Araújo
+# Portfólio – Renata Félix Trajano de Araújo
 
-> Cientista de Dados | Analista de Dados | Business Intelligence | Python | SQL | Power BI | Machine Learning | Supply Chain Analytics
+> Data Scientist | Data Science | Cientista de Dados | Data Analytics | Analista de Dados| Business Intelligence | Expert DIO  | IA | Azure • AWS • Cloud  Python • SQL • EXCEL • Power BI • Looker • Tableu • LLM
 
 [![Jekyll](https://img.shields.io/badge/Jekyll-4.3-red?logo=jekyll)](https://jekyllrb.com)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-brightgreen)](https://DS-RFTA.github.io)
