@@ -5,8 +5,10 @@ permalink: /
 ---
 
 # Renata Félix Trajano de Araújo
-**Cientista de Dados | Analista de Dados | Business Intelligence**  
+** FULL STACK EM DADOS & ANALYTICS | Cientista de Dados | Analista de Dados | Business Intelligence | CYBER** 
+Expert DIO
 Python · SQL · Power BI · Machine Learning · Supply Chain Analytics
+IA •  Azure • AWS • Cloud • Python • SQL • EXCEL • Power BI • Looker • Tableu • LLM
 
 📍 Recife, PE – Brasil  
 📧 [rfta@cesar.school](mailto:rfta@cesar.school)  
@@ -55,6 +57,8 @@ Domínio em **Power BI, SQL, Python (Pandas, NumPy, Scikit-learn, Plotly)**, Exc
 
 ## Formação Acadêmica
 
+** Graduação em Ciência da Computação**
+FMU - Centro Universitário FMU | FIAM-FAAM · 2026
 **Pós-graduação em Análise de Dados e Inteligência Artificial (IA Generativa e LLMs)**  
 CESAR SCHOOL · 2025
 
